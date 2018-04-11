@@ -2,6 +2,7 @@
 
 This is a repository for a data analytics workshop in python to be conducted in August.
 We will be using the price of weed in the US as the dataset to showcase the approach.
+All results shown at <a href="https://buy-weed-online.co/">https://buy-weed-online.co/</a>
 
 The broad analytics steps are listed below. We would showcase **some of them** in this workshop.
 
